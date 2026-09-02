@@ -38,3 +38,4 @@
 - docs: fix a small wording issue
 - docs: clarify the setup steps
 - chore: clarify the setup steps
+- chore: clarify the setup steps
